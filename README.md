@@ -1,1 +1,1 @@
-# -galler-master
+# -gallery-master
